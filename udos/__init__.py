@@ -1,4 +1,0 @@
-"""
-Universal Dataset Open Standard
-"""
-
