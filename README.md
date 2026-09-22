@@ -1,4 +1,7 @@
 # udos
+
+> **Superseded.** This project's brief (dataset search, acquisition, reusable preparation, sharing) is being built as [`conte`](https://github.com/thorwhalen/conte). No code was ever written here beyond a docstring. The `udos` name is kept reserved on PyPI for a possible standalone dataset-descriptor standard, which `conte` will settle first.
+
 Universal Dataset Open Standard
 
 A place to develop an open standard for dataset 
